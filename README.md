@@ -6,8 +6,7 @@ your /etc and your /run folders.
 First, deal with the /etc folder. Use the ls command to list it's contents and redirect those
 contents to a file called file1.txt
 Do the same for the /run folder but redirect the content to a file called file2.txt instead.
-There should be 2 commands required to complete this. Please show these commands in your
-submission.
+There should be 2 commands required to complete this. 
 Hint: ls /foo will list the contents in the /foo directory.
 
 Task 2
